@@ -5,7 +5,7 @@
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --ssl --ssl-cert C:\\\\www\\app\\ionicTodo\\localhost.crt --ssl-key C:\\\\www\\app\\ionicTodo\\localhost.key",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
